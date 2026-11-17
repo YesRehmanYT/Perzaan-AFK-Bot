@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "YesSmartyPie",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "YesSmartyPie",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "KindomSmp.aternos.me",
+    "port": 58436,
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
@@ -31,7 +31,7 @@
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Perzaan Gaming!",
+        "Subscribe to 786arking!",
         "I like to play Minecraft!"
       ]
     },
